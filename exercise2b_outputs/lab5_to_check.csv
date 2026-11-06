@@ -1,0 +1,6 @@
+line,text,reason
+9,S1O7 | Gopal | 25,matric is not S + 3 digits
+10,S108 | Hana | 62,above 30
+11,S109 | Irfan | Absent,absent
+12,S110 | Jun Wei | 19.5,not a whole number
+13,S111 Mei Ling 27,expected 3 fields

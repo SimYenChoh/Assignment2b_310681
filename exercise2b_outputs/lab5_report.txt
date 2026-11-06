@@ -1,0 +1,8 @@
+Lab 5 marks (out of 30)
+S101  Aina     24   80.0%  PASS
+S102  Ben      20   66.7%  PASS
+S103  Chong    28   93.3%  PASS
+S104  Devi     22   73.3%  PASS
+S105  Emir     16   53.3%  PASS
+S106  Farah    14   46.7%  FAIL
+6 students accepted. Lines to check in lab5_raw.txt: 9, 10, 11, 12, 13
